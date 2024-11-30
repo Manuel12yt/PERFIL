@@ -7,13 +7,13 @@
 ___
 
 <a 
-href=""><img src="https://avatars.githubusercontent.com/u/126108471?s=96&v=4" /><a>
+href=""><img src="" /><a>
 
 ___
 
 ## 🌟 **`DARK - OFC`**
 
-![Menú Principal]()
+![Menú Principal](https://avatars.githubusercontent.com/u/126108471?s=96&v=4)
 
 
 ### **`CONTACTOS`** 👇💛

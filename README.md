@@ -23,7 +23,7 @@ href="https://wa.me/5196882008?text="><img src="" height="125px"></a>
 <a
 href="" target="Black"><img
 src="" /> [![Gmail]()]()
-[![Instagram](https://avatars.githubusercontent.com/u/126108471?s=96&v=4)]()
+[![Instagram]()]()
 [![tiktok]()]()
 
 <p align="center">

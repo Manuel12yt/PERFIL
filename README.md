@@ -5,7 +5,7 @@
 ___
 
 <a 
-href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BvGTqRoqHCGT8EJxKOwkYPffSmRjt4fe2srv26cd8B3xAM11a5prqNXW&s=10" /><a>
+href=""><img src="" /><a>
 
 ___
 
@@ -23,7 +23,7 @@ href="https://wa.me/5196882008?text="><img src="" height="125px"></a>
 <a
 href="" target="Black"><img
 src="" /> [![Gmail]()]()
-[![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)]()
+[![Instagram]()]()
 [![tiktok]()]()
 
 <p align="center">

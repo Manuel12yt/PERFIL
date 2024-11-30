@@ -23,7 +23,7 @@ href="https://wa.me/5196882008?text="><img src="" height="125px"></a>
 <a
 href="" target="Black"><img
 src="" /> [![Gmail]()]()
-[![Instagram]()]()
+[![Instagram](https://cdn-icons-png.flaticon.com/512/174/174855.png)]()
 [![tiktok]()]()
 
 <p align="center">

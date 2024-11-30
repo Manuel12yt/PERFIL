@@ -4,7 +4,8 @@
 
 ___
 
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQHPparmylwGhA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701664424622?e=2147483647&v=beta&t=noG0Hx1qmSg0U94wRmV9n4XVE14rDYkb9Np_IukRdEE" /><a>
+<a 
+href=""><img src="https://media.licdn.com/dms/image/v2/D4E12AQHPparmylwGhA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701664424622?e=2147483647&v=beta&t=noG0Hx1qmSg0U94wRmV9n4XVE14rDYkb9Np_IukRdEE" /><a>
 
 ___
 
@@ -34,7 +35,7 @@ src="" /> [![Gmail]()]()
 
 ## <img src="" alt="Grupo" width="45" height="43"> Canal Oficial 💛
 
-<a href=""><img alt="Canal Oficial 💛" src=""/></a>
+<a href=""><img alt="Canal Oficial 💛" src="https://whatsapp.com/channel/0029Vaxb5xr7z4koGtOAAc1Q"/></a>
 
 ___
 

@@ -4,8 +4,7 @@
 
 ___
 
-<a 
-href=""><img src="https://media.licdn.com/dms/image/v2/D4E12AQHPparmylwGhA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701664424622?e=2147483647&v=beta&t=noG0Hx1qmSg0U94wRmV9n4XVE14rDYkb9Np_IukRdEE" /><a>
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQHPparmylwGhA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1701664424622?e=2147483647&v=beta&t=noG0Hx1qmSg0U94wRmV9n4XVE14rDYkb9Np_IukRdEE" /><a>
 
 ___
 

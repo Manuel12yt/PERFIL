@@ -1,5 +1,3 @@
-<img width=100% src=""/>
-
 ### **`BIENVENIDOS A MI PERFIL`**
 
 > **Soy un Desarrollador Profesional De Bots De WhatsApp 🌠.**
